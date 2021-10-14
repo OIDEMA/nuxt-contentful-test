@@ -1,4 +1,14 @@
-# yup-project
+# contentfulを試してみました。
+https://www.contentful.com/
+
+## 考察
+利用して、最初は無料ならいい感じっと思ったんですが、WordPressをAPIとして利用する方がいいかなと思いました。
+WordPressのREST APIの方が高機能かつ、安い、またみんなに慣れ親しんでいるので。
+
+またCDNはいろいろ検討してみようと思います。
+
+## Config設定
+.envファイルを作成して、API、シークレットキーを入力してください
 
 ## Build Setup
 
